@@ -1,0 +1,5 @@
+venv
+.vscode
+.dist
+python_projects/python_archive
+c_archive
